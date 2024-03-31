@@ -1,4 +1,4 @@
-<img src="https://github.com/showtimezz/showtimezz/blob/main/gf-header.png" alt="Showtimezz GitHub README header image">
+<img src="https://github.com/showtimezz/showtimezz/blob/main/gf-header.png" alt="Showtimezz GitHub README header image"> </img>
 # About me
 🔭 <b>I’m currently working on</b> enhancing and scaling an e-commerce platform dedicated to performance car parts at Compare.Parts. My role involves leveraging cutting-edge technologies and methodologies to drive significant improvements in user experience, system security, and overall platform scalability.
 
